@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @mushabui
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**Hi there** 👋
 
-<!---
-mushabui/mushabui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m Mushab Utsmani and i'm a IT Enthusiast
+
+- 👀 I’m interested in Mobile Developer
+- 🌱 I’m currently learning Flutter
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushabui&show_icons=true&theme=onedark)
